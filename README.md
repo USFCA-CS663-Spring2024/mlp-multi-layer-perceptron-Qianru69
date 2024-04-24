@@ -8,3 +8,17 @@ In addition to this README.md file, this repository contains two (2) files:
 * `winequality-red.csv`: which is the data for testing, also available at the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/186/wine+quality), at [Kaggle](https://www.kaggle.com/datasets/sh6147782/winequalityred), etc.
 
 You may make any changes you like to the notebook. Find assignment details on Canvas.
+
+The notebook was written with Colab, and some of the code might be different from the jupyter lab environment, If you want to run these notebooks, please kindly setup Colab environment.
+
+The Assignment 4 - MLP.ipynb notebook contains the main content of this Assignment
+
+The MLP_optimization.ipynb notebook was setup for tuning the hyperparameters for the MLP
+
+model tuning Log.pdf contains the detailed evolution process of the optimization.
+
+models folder contains the basic model, final model and good models generated during the training process
+
+The final proformance improvement is around 20%
+
+
