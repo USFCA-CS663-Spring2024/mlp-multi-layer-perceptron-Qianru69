@@ -9,16 +9,19 @@ In addition to this README.md file, this repository contains two (2) files:
 
 You may make any changes you like to the notebook. Find assignment details on Canvas.
 
-The notebook was written with Colab, and some of the code might be different from the jupyter lab environment, If you want to run these notebooks, please kindly setup Colab environment.
 
-The Assignment 4 - MLP.ipynb notebook contains the main content of this Assignment
+# About my submission    
 
-The MLP_optimization.ipynb notebook was setup for tuning the hyperparameters for the MLP
+* The notebook was written with Colab, and some of the code might be different from the jupyter lab environment, If you want to run these notebooks, please kindly setup Colab environment.
 
-model tuning Log.pdf contains the detailed evolution process of the optimization.
+* The Assignment 4 - MLP.ipynb notebook contains the main content of this Assignment, Basic MLP, Optimized MLP. and self implemented MLP
 
-models folder contains the basic model, final model and good models generated during the training process
+* The MLP_optimization.ipynb notebook contains draft code of tuning the hyperparameters for the MLP
 
-The final proformance improvement is around 20%
+* model_tuning_Log.pdf contains the detailed evolution process of the optimization.
+
+* models folder contains the basic model, final model and good intermediate models generated during the training process
+
+* The final proformance improvement is around 20%
 
 
